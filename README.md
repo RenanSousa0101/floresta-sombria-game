@@ -86,6 +86,8 @@ seguro enquanto luta para manter a sanidade e sobreviver.
 
 ## 📷 Imagens 
 
+![Tela Inicial](https://exemplo.com/imagem.png](https://drive.google.com/file/d/1GcawJ0OThehlkL0D-GGxcmZ2ynKqsg2f/view?usp=drive_link)
+
 ---
 
 ## ⚠️ Avisos
