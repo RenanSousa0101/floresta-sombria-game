@@ -106,6 +106,16 @@ seguro enquanto luta para manter a sanidade e sobreviver.
 
 ---
 
+## 📦 Download
+
+Você pode baixar a versão jogável do **Floresta Sombria** no link abaixo:
+
+[🔗 Clique aqui para baixar o jogo](https://drive.google.com/file/d/1HivgteGNU4Tr6EzI7o-lemW3W0_QTWUJ/view?usp=sharing)
+
+> Requisitos mínimos e instruções de execução estão listados acima na seção [Especificações Técnicas](#-especificações-técnicas).
+
+---
+
 ## ⚠️ Avisos
 
 Este jogo é voltado para maiores de 18 anos devido ao seu conteúdo de terror psicológico e elementos de tensão.
