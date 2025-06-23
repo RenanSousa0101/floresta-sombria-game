@@ -1,0 +1,14 @@
+spd=2;
+hspd = 0;
+vspd = 0;
+grv=0.5;
+image_xscale = 1; 
+image_yscale = 2; 
+obj_Emma.depth = obj_sombra_da_emma.depth - 1;
+luz = false;
+direct = 1;
+dialogoCriado = array_create(10, false);
+duracao_maxima = 1300;
+atv = false;
+rolando = false;
+cont = 0;

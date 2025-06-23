@@ -1,0 +1,1 @@
+nome = "Decimo Texto";

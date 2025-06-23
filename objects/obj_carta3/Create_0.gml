@@ -1,0 +1,1 @@
+nome = "Sexto Texto";

@@ -1,0 +1,1 @@
+nome = "Decipri Texto";

@@ -1,0 +1,1 @@
+Obj_gramado3.depth = Obj_arvore3.depth - 1;
